@@ -21,6 +21,7 @@ Use this repo if you're building an LLM-powered agent (Codex, ChatGPT, Claude, e
 | Gotchi Finder Skill | `1.1.0` | 2026-02-22 | Fetch Aavegotchi by ID on Base and display full on-chain traits and image data. | https://github.com/aaigotchi/gotchi-finder-skill |
 | Gotchi Equip Skill | `1.0.0` | 2026-02-19 | Equip wearables on Aavegotchis with agent-friendly automation tooling. | https://github.com/aaigotchi/gotchi-equip-skill |
 | Pet Me Master | `2.0.2` | 2026-02-22 | Interactive Aavegotchi petting flow focused on kinship upkeep and daily rituals. | https://github.com/aaigotchi/pet-me-master |
+| Pet Operator | `1.1.0` | 2026-03-02 | Delegate Aavegotchi petting rights to other addresses. Set up pet operator approval for automated petting while keeping ownership. | https://github.com/aaigotchi/pet-operator |
 | Aavegotchi Traits | `1.0.0` | 2026-02-13 | Trait-focused tooling and data for inspecting and working with Aavegotchi NFTs. | https://github.com/aaigotchi/aavegotchi-traits |
 
 `Version` uses explicit repo version files when available; otherwise it falls back to the latest default-branch commit hash.
